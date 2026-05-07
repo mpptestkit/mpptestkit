@@ -415,6 +415,8 @@ mpp-test-sdk/
 
 ---
 
+Contract Address: DFvGJ7rSxYdBkDzdSPEA8VbaxdHW7gB5t2C8xGLEpump
+
 ## License
 
 MIT
